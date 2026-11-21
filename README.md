@@ -1,4 +1,4 @@
-# pingwa-dev
+# Pingwa
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,140 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-pingwa-dev is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://pingwa.dev/
+Pingwa provides WhatsApp alert integration for tools, enabling teams to receive notifications via WhatsApp without needing Meta setup. It offers a simple API, webhook support, and a CLI, with open-source MIT‑licensed client. The service is built and run by Grzegorz Grzywacz, includes status monitoring, privacy and terms pages, and supports free starter usage.
+
+**Areas:** Company · WhatsApp · Alerts · Integration · OpenAPI
+
+## Pingwa on APIs.io
+
+Everything profiled for Pingwa is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/pingwa-dev/](https://apis.io/providers/pingwa-dev/)** — or go straight to one of the APIs or properties below.
+
+### APIs (21)
+
+- [Pingwa Account API](https://apis.io/apis/pingwa-dev/pingwa-dev-account-api/) — The Account API from Pingwa — 2 operation(s) for account.
+- [Pingwa Actions API](https://apis.io/apis/pingwa-dev/pingwa-dev-actions-api/) — The Actions API from Pingwa — 8 operation(s) for actions.
+- [Pingwa Ask API](https://apis.io/apis/pingwa-dev/pingwa-dev-ask-api/) — The Ask API from Pingwa — 1 operation(s) for ask.
+- [Pingwa Auth API](https://apis.io/apis/pingwa-dev/pingwa-dev-auth-api/) — The Auth API from Pingwa — 7 operation(s) for auth.
+- [Pingwa Billing API](https://apis.io/apis/pingwa-dev/pingwa-dev-billing-api/) — The Billing API from Pingwa — 3 operation(s) for billing.
+- [Pingwa C API](https://apis.io/apis/pingwa-dev/pingwa-dev-c-api/) — The C API from Pingwa — 2 operation(s) for c.
+- [Pingwa Checks API](https://apis.io/apis/pingwa-dev/pingwa-dev-checks-api/) — The Checks API from Pingwa — 2 operation(s) for checks.
+- [Pingwa Guests API](https://apis.io/apis/pingwa-dev/pingwa-dev-guests-api/) — The Guests API from Pingwa — 2 operation(s) for guests.
+- [Pingwa Health API](https://apis.io/apis/pingwa-dev/pingwa-dev-health-api/) — The Health API from Pingwa — 1 operation(s) for health.
+- [Pingwa Hooks API](https://apis.io/apis/pingwa-dev/pingwa-dev-hooks-api/) — The Hooks API from Pingwa — 5 operation(s) for hooks.
+- [Pingwa Inbox API](https://apis.io/apis/pingwa-dev/pingwa-dev-inbox-api/) — The Inbox API from Pingwa — 1 operation(s) for inbox.
+- [Pingwa Keys API](https://apis.io/apis/pingwa-dev/pingwa-dev-keys-api/) — The Keys API from Pingwa — 2 operation(s) for keys.
+- [Pingwa Me API](https://apis.io/apis/pingwa-dev/pingwa-dev-me-api/) — The Me API from Pingwa — 1 operation(s) for me.
+- [Pingwa Media API](https://apis.io/apis/pingwa-dev/pingwa-dev-media-api/) — The Media API from Pingwa — 1 operation(s) for media.
+- [Pingwa Messages API](https://apis.io/apis/pingwa-dev/pingwa-dev-messages-api/) — The Messages API from Pingwa — 2 operation(s) for messages.
+- [Pingwa Notify API](https://apis.io/apis/pingwa-dev/pingwa-dev-notify-api/) — The Notify API from Pingwa — 1 operation(s) for notify.
+- [Pingwa OAuth API](https://apis.io/apis/pingwa-dev/pingwa-dev-oauth-api/) — The Oauth API from Pingwa — 6 operation(s) for oauth.
+- [Pingwa Registrations API](https://apis.io/apis/pingwa-dev/pingwa-dev-registrations-api/) — The Registrations API from Pingwa — 3 operation(s) for registrations.
+- [Pingwa Schedules API](https://apis.io/apis/pingwa-dev/pingwa-dev-schedules-api/) — The Schedules API from Pingwa — 2 operation(s) for schedules.
+- [Pingwa Team API](https://apis.io/apis/pingwa-dev/pingwa-dev-team-api/) — The Team API from Pingwa — 6 operation(s) for team.
+- [Pingwa Webhooks API](https://apis.io/apis/pingwa-dev/pingwa-dev-webhooks-api/) — The Webhooks API from Pingwa — 2 operation(s) for webhooks.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [Pingwa Agentic Access](https://apis.io/agentic-access/pingwa-dev/pingwa-dev-agentic-access/)
+
+#### JSON Schema (6)
+
+The data models the API reads and writes.
+
+- [ActionIn](https://apis.io/schemas/pingwa-dev/pingwa-dev-action-in/)
+- [ActionPatch](https://apis.io/schemas/pingwa-dev/pingwa-dev-action-patch/)
+- [AskIn](https://apis.io/schemas/pingwa-dev/pingwa-dev-ask-in/)
+- [HookPatch](https://apis.io/schemas/pingwa-dev/pingwa-dev-hook-patch/)
+- [NotifyIn](https://apis.io/schemas/pingwa-dev/pingwa-dev-notify-in/)
+- [PolicyIn](https://apis.io/schemas/pingwa-dev/pingwa-dev-policy-in/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Pingwa Dev Context](https://apis.io/jsonld/pingwa-dev/pingwa-dev-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [Pingwa API Rules](https://apis.io/rules/pingwa-dev/pingwa-dev-rules/)
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Pingwa Authentication](https://apis.io/security/pingwa-dev/pingwa-dev-authentication/)
+- [Pingwa Domain Security](https://apis.io/security/pingwa-dev/pingwa-dev-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://pingwa.dev/)
+- [Documentation](https://pingwa.dev/docs)
+- [Terms of service](https://pingwa.dev/terms)
+- [Privacy policy](https://pingwa.dev/privacy)
+- [Status](https://pingwa.dev/status)
+
+## API Evangelist rating
+
+**Kin Score 40.1** — developing · rubric 0.27.0 · scored 2026-11-21
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 51.8 |
+| Contract governance | 79.1 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 21.4 |
+| Access clarity | 21.1 |
+
+**Agent readiness 42.1** — agent-native
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | verified |
+| Error Semantics | verified |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | — |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 24.5** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/pingwa-dev/](https://apis.io/providers/pingwa-dev/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Pingwa: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/pingwa-dev/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
